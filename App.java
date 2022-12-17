@@ -20,7 +20,8 @@ public class App{
     car2.isFamilyCar();
     car3.isFamilyCar(); 
     car4.isFamilyCar(); 
-
+    car5.isFamilyCar(); 
+    car6.isFamilyCar(); 
 
     System.out.println("You have currently looked at "+ Car.count + " cars");
     }
